@@ -1,5 +1,5 @@
 title: Camilo Sánchez
 logo: /assets/img/foto_perfil.jpeg
 #description:
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-minimal
