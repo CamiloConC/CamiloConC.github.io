@@ -2,9 +2,9 @@
 ### Habilidades técnicas: Python, QGis, EPANET, HEC-RAS, SWMM, AutoCAD, Excel VBA
 
 ## Educación
-- MSc. Ingeniería de Recursos Hidráulicos | Universidad Francisco de Paula Santander, Cúcuta (_Actualidad_)
-- Tnlg. Análisis y Desarrollo de Software | Servicio Nacional de Aprendizaje SENA (_Junio 2025_)
-- BSc. Ingeniería Civil | Universidad Francisco de Paula Santander, Cúcuta (_Junio 2021_)
+- MSc. Ingeniería de Recursos Hidráulicos — Universidad Francisco de Paula Santander, Cúcuta (_Actualidad_)
+- Tnlg. Análisis y Desarrollo de Software — Servicio Nacional de Aprendizaje SENA (_Junio 2025_)
+- BSc. Ingeniería Civil — Universidad Francisco de Paula Santander, Cúcuta (_Junio 2021_)
 
 ## Experiencia profesional
 **Asistente Administrativo @ Universidad Francisco de Paula Santander <br> (_Agosto 2022 — Actualidad_)**
